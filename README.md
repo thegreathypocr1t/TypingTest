@@ -1,1 +1,1 @@
-A simple C++ GUI tying test program created using QT.
+A simple C++ GUI typing test application created using QT.
